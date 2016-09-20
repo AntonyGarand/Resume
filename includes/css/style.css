@@ -109,9 +109,8 @@ body {
  * Skill progress bar
  */
 .skillProgressBar {
-    margin-left: 15px;
+    margin-left: 50px;
     height: 30px;
-    vertical-align: center;
     position: relative;
     margin-bottom: 10px;
 }
