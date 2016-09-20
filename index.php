@@ -11,7 +11,7 @@
     require_once('functions.php');
 ?><!DOCTYPE html>
 <title><?=__("Cv de Antony Garand")?></title>
-<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet'>
 <?= addCss('style.css') ?>
 <?= addScript('script.js') ?>
 <div id="content">
