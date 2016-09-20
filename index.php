@@ -26,22 +26,7 @@
             <h2 id="aptitudes" class="leftSectionTitle"><?=__('Aptitudes')?></h2>
             <div id="programmationWrapper">
                 <h3 id="programmation" class="skillTitle"><?=__('Programmation')?></h3>
-                <div id="php" class="skillProgressBar" name="PHP" value="8">
-                    <!--<span class="skillName">PHP</span>
-                    <span class="skillBarWrapper">
-                        <div class="skillBlock 1 active"></div>
-                        <div class="skillBlock 2 active"></div>
-                        <div class="skillBlock 3 active"></div>
-                        <div class="skillBlock 4 active"></div>
-                        <div class="skillBlock 5 active"></div>
-                        <div class="skillBlock 6 active"></div>
-                        <div class="skillBlock 7 active"></div>
-                        <div class="skillBlock 8 active"></div>
-                        <div class="skillBlock 9 inactive"></div>
-                        <div class="skillBlock 10 inactive"></div>
-                    </span>
-                    <span class="skillValue">8/10</span>-->
-                </div>
+                <div id="php" class="skillProgressBar" name="PHP" value="8"></div>
                 <div id="csharp" class="skillProgressBar" name="C#" value="8"></div>
                 <div id="python" class="skillProgressBar" name="Python" value="7"></div>
                 <div id="javascript" class="skillProgressBar" name="Javascript" value="7"></div>
