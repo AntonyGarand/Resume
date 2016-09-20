@@ -99,7 +99,7 @@
                 <p class="extraDescription description"><?=__('Participation à divers projets tels l\'abolition des bouteilles d\'eau, sensibilisation LGBTQ+ et diffusion de documentaires sur divers sujets étiques.')?></p>
             </div>
             <div id="albumWrapper">
-                <h2 id="ctf" class="sectionRightSubtitle">2013</h2>
+                <h2 id="album" class="sectionRightSubtitle">2013</h2>
                 <p class="extraRole role"><?=__('Comité de l\'album des finissants')?></p>
                 <p class="extraDescription description"><?=__('Participation à la conception de l\'album des finissants ent tant que coordinateur de projet et infographiste.')?></p>
             </div>
