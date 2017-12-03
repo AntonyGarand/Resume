@@ -1,5 +1,5 @@
 <?php
-define('URI_PREFIX', '/cv/');
+define('URI_PREFIX', '/');
 define('INCLUDES_FOLDER', URI_PREFIX . 'includes/');
 define('SCRIPT_FOLDER', INCLUDES_FOLDER . 'js/');
 define('STYLE_FOLDER', INCLUDES_FOLDER . 'css/');
